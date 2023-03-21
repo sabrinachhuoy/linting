@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/sabrinachhuoy/templating-with-ejs/issues"
   },
-  "homepage": "https://github.com/sabrinachhuoy/templating-with-ejs#readme"
+  "homepage": "https://github.com/sabrinachhuoy/templating-with-ejs#readme",
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "eslint-plugin-react": "^7.32.2",
+    "stylelint": "^15.3.0",
+    "stylelint-config-standard": "^31.0.0"
+  }
 }
